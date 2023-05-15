@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bob\'s Burgers</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="occupation">Occupation:</string>
+    <string name="first_episode">First Episode:</string>
+    <string name="voiced_by">Voiced By:</string>
+</resources>
